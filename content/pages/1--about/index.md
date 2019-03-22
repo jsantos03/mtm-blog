@@ -1,27 +1,23 @@
 ---
-title: About
+title: Sobre Nosotros
 ---
 
-This is a demo site of the [HeroBlog](https://github.com/greglobinski/gatsby-starter-hero-blog), a [GatsbyJS](https://www.gatsbyjs.org/) starter.
+### Maldonado Tech Meetup:
 
-### Features:
+Maldonado Homebrew Computer Club desde en adelante `MTM` surge de la necesidad local de un espacio de conectividad horizontal de apasionados y profesionales de la Tecnología de la Información cuya misión es construir una comunidad de profesionales, estudiantes y aficionados de las distintas ramas de las TIC´s.
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **CSS** with `styled-jsx` and `PostCSS`
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (category based post list)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* 100% **PWA** (manifest.webmanifest, offline support, favicons)
-* Google **Analytics**
-* App **favicons** generator (node script)
-* Easy customizable base **styles** via `theme` object generated from `yaml` file (fonts, colors, sizes)
-* React **v.16** (gatsby-plugin-react-next)
-* **Components** lazy loading (social sharing)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Webpack `BundleAnalyzerPlugin`
+El objetivo principal de `MTM` es incentivar el intercambio de conocimientos, experiencias y habilidades a través de reuniones, capacitaciones y eventos sociales que se llevarán a cabo regularmente, logrando el enriquecimiento, actualización y expansión permanente de los conocimientos de los miembros de la comunidad.
+
+
+**¿Por qué participar en MTM?** 
+`MTM` busca acelerar e impulsar los procesos de negocio en una comunidad activa de interesados por las TIC´s en el departamento de Maldonado posicionando al departamento de Maldonado y la región como buenos proveedores de servicios para el resto del país y el exterior.
+
+**¿Quiénes pueden ser miembros de MTM?** 
+
+Pueden participar profesionales, estudiantes, empresas, emprendedores, organizaciones y instituciones educativas que tengan interés y relación con las Tecnologías de la Información y Comunicación.
+
+Los encuentros de la la comunidad serán comunicados entre sus miembros en las distintas plataformas de comunicación.
+
+
+Unete en nuestra comunidad [Meetup](https://www.meetup.com/es/Maldonado-New-Technology-Meetup).
+

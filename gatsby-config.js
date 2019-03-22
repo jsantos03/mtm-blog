@@ -122,7 +122,8 @@ module.exports = {
                 width: "25px"
               }
             }
-          },
+          }
+          /* ,
           {
             resolve: `gatsby-plugin-algolia`,
             options: {
@@ -132,7 +133,7 @@ module.exports = {
               queries,
               chunkSize: 10000 // default: 1000
             }
-          }
+          } */
         ]
       }
     },
