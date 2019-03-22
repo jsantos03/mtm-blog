@@ -37,11 +37,9 @@ module.exports = {
     description: config.siteDescription,
     siteUrl: config.siteUrl,
     algolia: {
-      appId: process.env.ALGOLIA_APP_ID ? process.env.ALGOLIA_APP_ID : "",
-      searchOnlyApiKey: process.env.ALGOLIA_SEARCH_ONLY_API_KEY
-        ? process.env.ALGOLIA_SEARCH_ONLY_API_KEY
-        : "",
-      indexName: process.env.ALGOLIA_INDEX_NAME ? process.env.ALGOLIA_INDEX_NAME : ""
+      appId: "NDTMM6X0Q8",
+      searchOnlyApiKey: "11a485ca11ca3fa3eb61afb8ebffffb0",
+      indexName: "mtm-blog"
     },
     facebook: {
       appId: process.env.FB_APP_ID ? process.env.FB_APP_ID : ""
@@ -56,16 +54,16 @@ module.exports = {
         component: require.resolve(`./src/layouts/`)
       }
     },
-/*     {
+     {
       resolve: `gatsby-plugin-algolia`,
       options: {
-        appId: process.env.ALGOLIA_APP_ID ? process.env.ALGOLIA_APP_ID : "",
-        apiKey: process.env.ALGOLIA_ADMIN_API_KEY ? process.env.ALGOLIA_ADMIN_API_KEY : "",
-        indexName: process.env.ALGOLIA_INDEX_NAME ? process.env.ALGOLIA_INDEX_NAME : "",
+        appId: "NDTMM6X0Q8",
+        apiKey: "025f30388604765d2387cc86ab9aac0f",
+        indexName: "mtm-blog",
         queries,
         chunkSize: 10000 // default: 1000
       }
-    }, */
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
