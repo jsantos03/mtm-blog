@@ -53,17 +53,7 @@ module.exports = {
       options: {
         component: require.resolve(`./src/layouts/`)
       }
-    },
-     {
-      resolve: `gatsby-plugin-algolia`,
-      options: {
-        appId: "NDTMM6X0Q8",
-        apiKey: "025f30388604765d2387cc86ab9aac0f",
-        indexName: "mtm-blog",
-        queries,
-        chunkSize: 10000 // default: 1000
-      }
-    },
+    },     
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -131,6 +121,16 @@ module.exports = {
                 top: "5px",
                 width: "25px"
               }
+            }
+          },
+          {
+            resolve: `gatsby-plugin-algolia`,
+            options: {
+              appId: "NDTMM6X0Q8",
+              apiKey: "025f30388604765d2387cc86ab9aac0f",
+              indexName: "mtm-blog",
+              queries,
+              chunkSize: 10000 // default: 1000
             }
           }
         ]
