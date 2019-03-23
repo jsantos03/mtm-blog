@@ -206,7 +206,7 @@ module.exports = {
                 title
                 description
                 siteUrl
-                site_url: mtm-blog.netlify.com
+                site_url: site_url
               }
             }
           }

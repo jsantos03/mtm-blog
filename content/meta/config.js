@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "MTM-Blog - Maldonado Tech Meetup", // <title>
   shortSiteTitle: "MTM-Blog - Maldonado Tech Meetup", // <title> ending for posts and pages
   siteDescription: "MTM - Maldonado Tech Meetup  surge de la necesidad local de un espacio de conectividad horizontal de apasionados y profesionales de la Tecnología de la Información con el objetivo de incentivar el intercambio de conocimientos, experiencias y habilidades a través de reuniones, capacitaciones y eventos sociales.",
-  siteUrl: "mtm-blog.netlify.com",
+  siteUrl: "https://mtm-blog.netlify.com/",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "es",
