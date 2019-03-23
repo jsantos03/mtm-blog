@@ -14,7 +14,7 @@ Nuestra charla del día fue: `GameDev pipeline para equipos diminutos ` a cargo 
 Luego disfrutamos de un café y unas masitas charlando de tecnología y  `despidiendo el año ` como corresponde.
 
 
-![Speaker](./speaker.jpg)
+![Speaker](./speaker3.jpeg)
 
  [Escúchala aquí](https://drive.google.com/file/d/1qN7EtN8fE2B7mCabJGWns9H7ajC3w7u0/view).
 

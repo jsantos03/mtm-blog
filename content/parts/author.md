@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Mr. Gatsby** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus.
+**Unete a nuestro a la mejor comunidad** Encuentre la información de el proximo [MeetUp Aquí](https://www.meetup.com/Maldonado-New-Technology-Meetup). Quieres dejarnos tu propuesta? [Comunicate Aquí](/contact) 
