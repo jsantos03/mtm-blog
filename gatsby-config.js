@@ -206,7 +206,7 @@ module.exports = {
                 title
                 description
                 siteUrl
-                site_url: site_url
+                siteUrl: siteUrl
               }
             }
           }
