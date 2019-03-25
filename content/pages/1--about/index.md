@@ -21,3 +21,4 @@ Los encuentros de la la comunidad serán comunicados entre sus miembros en las d
 
 Unete en nuestra comunidad [Meetup](https://www.meetup.com/es/Maldonado-New-Technology-Meetup).
 
+![MTM Logo](./mtm_logo.jpg)

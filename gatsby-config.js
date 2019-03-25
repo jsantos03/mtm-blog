@@ -36,11 +36,11 @@ module.exports = {
     title: config.siteTitle,
     description: config.siteDescription,
     siteUrl: config.siteUrl,
-    algolia: {
+    /* algolia: {
       appId: "NDTMM6X0Q8",
       searchOnlyApiKey: "11a485ca11ca3fa3eb61afb8ebffffb0",
       indexName: "mtm-blog"
-    },
+    }, */
     facebook: {
       appId: process.env.FB_APP_ID ? process.env.FB_APP_ID : ""
     }
