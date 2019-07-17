@@ -68,3 +68,6 @@ yarn-error.log
 
 # other
 report/
+.vs/slnx.sqlite
+.vs/mtm/v15/.suo
+\.vs/
