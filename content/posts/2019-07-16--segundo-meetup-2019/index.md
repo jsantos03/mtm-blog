@@ -1,13 +1,13 @@
 ---
-title: Workshop práctico sobre aplicaciones serverless en AWS y Kubernetes? -- Segundo Meetup 2019 --
+title: Segundo Meetup 2019 -- Workshop serverless en AWS y Kubernetes.
 category: "MeetUp"
-cover: invitacion.jpeg
+cover: workshop1.jpg
 author: Juan Santos
 ---
 
-![MettUp](./invitacion.jpeg)
+![Workshop](./workshop1.jpg)
 
-### Workshop práctico sobre aplicaciones serverless en AWS y Kubernetes 💻💻
+### Workshop práctico sobre aplicaciones serverless en AWS y Kubernetes 💻
 
 Dos Workshop más que interesantes, tuvimos dos opciones tecnológicas casi antagónicas presentadas por nuestro compañero Santiago Regusci y Francisco Villegas.
 
@@ -23,4 +23,4 @@ Agradecemos a nuestros compañero por su tiempo para preparar y dar este worksho
 
 Los esperamos en la próxima el xx/xx. Y no olviden seguirnos en [MeetUp](https://www.meetup.com/es/Maldonado-New-Technology-Meetup/). para recibir las notificaciones de la comunidad.
 
-![Workshop](./Workshop1.jpg)
+![MettUp](./invitacion.jpeg)
