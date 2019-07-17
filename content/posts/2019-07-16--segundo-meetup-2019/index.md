@@ -12,7 +12,7 @@ author: Juan Santos
 Dos Workshop más que interesantes, tuvimos dos opciones tecnológicas casi antagónicas presentadas por nuestro compañero Santiago Regusci y Francisco Villegas.
 
 Primero Kubernetes donde Santiago no presentó los fundamentos tecnológicos, casos de usos más comunes y los comandos básico para familiarizarnos con la tecnología.
-Aquí les dejamos un link donde pueden seguir la práctica en [GitHub].(https://github.com/santicomp2014/taller_mtm_k8s)
+Aquí les dejamos un link donde pueden seguir la práctica en [GitHub](https://github.com/santicomp2014/taller_mtm_k8s)
 
 Con Francisco hicimos nuestra app para recibir recetas de empanadas usando 100% AWS para hostear nuestra web, guardar las imágenes con S3, tambien nuestra base on cloud y lo más importante los serveless y sus triggers.
 Una opción con infinidad de aplicación y en pleno auge.
